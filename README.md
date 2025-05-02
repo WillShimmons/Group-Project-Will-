@@ -14,8 +14,11 @@ The dataset we used was found on the public website data.gov, titled: Motor Vehi
 We first began with the categorical set:
 
 Borough (which town the crash happened in)
+
 Type of Vehicle (sedan, SUV, taxi, or for-hire vehicle like Uber/Lyft)
+
 Cause of Crash (texting, speeding, weather, under the influence, etc.)
+
 Time of Day (morning, afternoon, evening, night)
 
 Then with the quantitative set:
