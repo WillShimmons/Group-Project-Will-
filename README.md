@@ -1,39 +1,4 @@
 # Group-Project-Will-
-Skip to content
-Navigation Menu
-Maguireoooo
-Motor-Vehicle-Crashes-In-New-York
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Owner avatar
-Motor-Vehicle-Crashes-In-New-York
-Public
-Maguireoooo/Motor-Vehicle-Crashes-In-New-York
-Go to file
-t
-Name		
-SidhantArora4610
-SidhantArora4610
-Update README.md
-9b7281f
- · 
-yesterday
-MIST4610-Project2-Group9.twbx
-Create MIST4610-Project2-Group9.twbx
-yesterday
-README.md
-Update README.md
-yesterday
-Repository files navigation
-README
-Motor-Vehicle-Crashes-In-New-York
 Team Name:
 Group 9
 
@@ -42,24 +7,30 @@ Colin Maguire @Maguireoooo
 Aidan Brown @breadwinner222
 Will Shimmons @WillShimmons
 Sidhant Arora @SidhantArora4610
+
 Dataset Description and Overview:
-The dataset we used was found on the public website data.gov, titled: Motor Vehicle Collisions – Crashes (New York City) This data contains motorvehicle crashes that were reported from 1998 to 2025 in different areas of New York City. It contains 2,169,687 rows and 30 columns making it a large and rich dataset full of varied categorical and quantitive data. Before going in depth with this data, we must first understand the different variables that we analyzed. We first began with the categorical set:
+The dataset we used was found on the public website data.gov, titled: Motor Vehicle Collisions – Crashes (New York City) This data contains motorvehicle crashes that were reported from 1998 to 2025 in different areas of New York City. It contains 2,169,687 rows and 30 columns making it a large and rich dataset full of varied categorical and quantitive data. Before going in depth with this data, we must first understand the different variables that we analyzed. 
+
+We first began with the categorical set:
 
 Borough (which town the crash happened in)
 Type of Vehicle (sedan, SUV, taxi, or for-hire vehicle like Uber/Lyft)
 Cause of Crash (texting, speeding, weather, under the influence, etc.)
 Time of Day (morning, afternoon, evening, night)
+
 Then with the quantitative set:
 
 Fatality Rate
 Number of Crashes
 Number of Pedestrian Injuries
+
 This detailed dataset allowed us to gain a hold of both WHERE and WHY accidents happen. Along with this, we attempted to determine which vehicle types and locations are most dangerous for pedestrians across New York City.
 
 Project Questions:
 Question 1: How do the time of day and boroughs of New York City affect the fatality rate from car crashes?
 
 This question is important because it connects human behavior, their driving patterns throughout the day, and urban structure of different boroughs, or towns to prepare safety outcomes. By understanding when and where fatal crashes are most likely to occur, city officials can better plan traffic interventions, set rush-hour policies, and focus infrastructure funding to save lives. The question ties directly to the dataset through time variables (Crash Time) and location variables (Borough).
+
 Question 2: Which types of vehicles are most often involved in crashes that lead to pedestrian injuries, and where do these crashes happen more frequently?
 
 This question now, sounds a bit different in the way it's worded, however it is just as important because it helps us analyze the safety of pedestrians in the crowded city, which also turns out to be a social issue. It's important economically and culturally as well because it affects where people feel safe walking, also affecting how insurance and healthcare costs rise, and how transportation services like Uber and Lyft interact with the public and New York City's residents. Our dataset directly supports this question with vehicle type data and pedestrian injury numbers, helping identify the most dangerous vehicle categories and the boroughs or ZIP codes where injuries cluster.
@@ -81,37 +52,3 @@ Question 1 Graph Question 2 Graph
 
 Tableau Packaged Workbook:
 https://drive.google.com/drive/folders/1WXlwEfwILXEWvuFOPv0DtnNCEtpDDgdU?usp=drive_link
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 1 fork
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-2
-@SidhantArora4610
-SidhantArora4610
-@Maguireoooo
-Maguireoooo
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
